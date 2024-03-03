@@ -1,6 +1,6 @@
 #include <GL/glut.h>
 #include <math.h>
-#include "./headers/zoom.h"
+#include "./headers/keyboardFuncs.h"
 #include "./headers/lighting.h"
 #include "./headers/generateObjects.h"
 #include "./headers/animations.h"

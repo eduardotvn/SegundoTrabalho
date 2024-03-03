@@ -1,4 +1,4 @@
-#include "../headers/zoom.h"
+#include "../headers/keyboardFuncs.h"
 #include "../headers/lighting.h"
 #include <GL/glut.h>
 #include <stdio.h>
