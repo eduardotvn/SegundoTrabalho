@@ -1,0 +1,4 @@
+
+
+void animateTeapot();
+void animateTorus();
